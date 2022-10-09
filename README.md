@@ -13,3 +13,11 @@ This is a tiny todolist in Tiddlywiki. It supports categories and is high custom
 * * * it seems I need to delete some of the commits I may have done.
 * * is it possible thas could aid in bootstrapping a GitHub hosted TW?
 * * * I could do a new fork in order to get the updated version
+
+## rename(s)
+If you have a local clone, you can update it by running the following commands.
+
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
