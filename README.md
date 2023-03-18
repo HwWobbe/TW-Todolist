@@ -4,6 +4,9 @@ This is a tiny todolist in Tiddlywiki. It supports categories and is high custom
 * Evaluation is scheduled.
 * cosider the conversion hints (when time allows)
 * confirm changes are being recorded
+* * pwerhaps 
+* * * there is a lag ?
+* * * this "HTML" type is interferring with expected results ??
 
 # NotesH
 
