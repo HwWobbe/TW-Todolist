@@ -3,6 +3,8 @@ This is a tiny todolist in Tiddlywiki. It supports categories and is high custom
 
 * Evaluation is scheduled.
 * cosider the conversion hints (when time allows)
+* note that Mohammad is shown as a contributor to this forked repo
+* * ensure my updates are not pestering him
 * confirm changes are being recorded
 * * pwerhaps 
 * * * there is a lag ?
