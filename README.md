@@ -12,7 +12,7 @@ This is a tiny todolist in Tiddlywiki. It supports categories and is high custom
 
 # NotesH
 
-* replace MASTER with MAIN
+* replaced MASTER with MAIN
 * * use the wiki to reduce the apparent Pulse rate https://github.com/HwWobbe/TW-Todolist/wiki
 * this repo was automatically forked from its source when I did an edit in that read-only repo.
 * * review for currency
